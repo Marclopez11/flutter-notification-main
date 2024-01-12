@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205534603718",
+    "project_id": "testnotis-7985d",
+    "storage_bucket": "testnotis-7985d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205534603718:android:d3501642a5523e859aeac7",
+        "android_client_info": {
+          "package_name": "com.example.climarec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPUkylxlXJFap8au48WQQMdWYQv3XURA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205534603718:android:4393538a1f24816f9aeac7",
+        "android_client_info": {
+          "package_name": "vibracom.climarec.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPUkylxlXJFap8au48WQQMdWYQv3XURA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
