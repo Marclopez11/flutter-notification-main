@@ -25,6 +25,8 @@ Para habilitar la recepción de notificaciones en dispositivos iOS, sigue estos 
    - Haz clic en "Agregar App" y selecciona la plataforma iOS.
    - Sigue los pasos para registrar tu aplicación y descargar el archivo `GoogleService-Info.plist`.
 
+3.1 Añadir el cerficado APNS  , a la hora de subirlo tener encuenta que el id  que hay que poner es el que genera el archivo apns , se puede conseguir en el apple/keys
+
 3. **Configura el Entorno de Desarrollo**:
    - Abre tu proyecto de Flutter en Xcode.
    - Coloca el archivo `GoogleService-Info.plist` descargado en la raíz del proyecto de Xcode.
